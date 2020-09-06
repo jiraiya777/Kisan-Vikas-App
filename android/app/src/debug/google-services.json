@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803751211229",
+    "firebase_url": "https://kisanvikas-2020.firebaseio.com",
+    "project_id": "kisanvikas-2020",
+    "storage_bucket": "kisanvikas-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803751211229:android:df65a3fb99ff50c42eab34",
+        "android_client_info": {
+          "package_name": "com.example.kisanVikasApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803751211229-l9qse9ot4i03a38bs22pdtr33jvstv9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS91wfzgbpB_bWCr8sDDgKadjDArhrxvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803751211229-l9qse9ot4i03a38bs22pdtr33jvstv9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
