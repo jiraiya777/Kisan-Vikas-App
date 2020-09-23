@@ -2,17 +2,16 @@ Kisan Vikas App
 
 An all-in-one app for daily assistance of farmers, which included functionalities like keeping their expenditure record (for daily and seasonal), relevant educational-farming related video section, a section for guidance to grow a particular crop and a weather forecast section.
 
-##################################################################
+
+
 
 Pre-requisite packages and files to Run the Code:
 
-Flutter SDK
-
-Dark SDK
+Flutter SDK and Dark SDK
 
 Major Code is Present in lib folder of kisanVikasApp file.
 
-##(You can check code for each service in it's respective folder)
+(You can get code for each service in it's respective folder)
 
 How to run the Code:
 
