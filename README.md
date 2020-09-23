@@ -7,8 +7,11 @@ An all-in-one app for daily assistance of farmers, which included functionalitie
 Pre-requisite packages and files to Run the Code:
 
 Flutter SDK
+
 Dark SDK
+
 Major Code is Present in lib folder of kisanVikasApp file.
+
 ##(You can check code for each service in it's respective folder)
 
 How to run the Code:
